@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\test\test\bin\Debug\netcoreapp3.1\PruebaArreglos.exe
+C:\Users\PC\source\repos\test\test\bin\Debug\netcoreapp3.1\PruebaArreglos.deps.json
+C:\Users\PC\source\repos\test\test\bin\Debug\netcoreapp3.1\PruebaArreglos.runtimeconfig.json
+C:\Users\PC\source\repos\test\test\bin\Debug\netcoreapp3.1\PruebaArreglos.runtimeconfig.dev.json
+C:\Users\PC\source\repos\test\test\bin\Debug\netcoreapp3.1\PruebaArreglos.dll
+C:\Users\PC\source\repos\test\test\bin\Debug\netcoreapp3.1\PruebaArreglos.pdb
+C:\Users\PC\source\repos\test\test\obj\Debug\netcoreapp3.1\PruebaArreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\test\test\obj\Debug\netcoreapp3.1\PruebaArreglos.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\test\test\obj\Debug\netcoreapp3.1\PruebaArreglos.AssemblyInfo.cs
+C:\Users\PC\source\repos\test\test\obj\Debug\netcoreapp3.1\PruebaArreglos.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\test\test\obj\Debug\netcoreapp3.1\PruebaArreglos.dll
+C:\Users\PC\source\repos\test\test\obj\Debug\netcoreapp3.1\PruebaArreglos.pdb
+C:\Users\PC\source\repos\test\test\obj\Debug\netcoreapp3.1\PruebaArreglos.genruntimeconfig.cache
